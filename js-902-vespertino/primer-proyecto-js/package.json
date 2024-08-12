@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de javascript en univer",
+  "main": "index.js",
+  "scripts": {
+    "saludo":"node hello-world.js",
+    "nombre":"Luis Angel Reyes",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LUIS_RC",
+  "license": "ISC"
+}
